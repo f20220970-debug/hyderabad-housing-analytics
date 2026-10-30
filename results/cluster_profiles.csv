@@ -1,0 +1,6 @@
+cluster,localities,listings,median_psf,median_area,share_3bhk_plus,amenity_score,resale_share,name
+0,10,318,5100.78,1626.25,0.73,12.2,0.12,"mid-market, thin-supply, larger homes"
+1,9,744,4969.7,1515.0,0.62,6.82,0.08,"mid-market, high-supply"
+2,10,360,3750.0,1161.25,0.18,3.24,0.02,"affordable, high-supply"
+3,6,318,7996.96,2197.5,0.83,10.99,0.42,"premium, high-supply"
+4,6,115,4874.49,1272.5,0.45,3.34,0.58,"mid-market, thin-supply, smaller homes"

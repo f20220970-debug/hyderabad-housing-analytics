@@ -1,0 +1,6 @@
+,coef,p_value,effect,vif
+log_area,1.2301,0.0,1.23% per 1% more area,3.6992
+bedrooms,-0.033,0.0026,-3.2% per unit,3.183
+resale,0.0235,0.0181,+2.4% per unit,1.0423
+amenity_score,0.0036,0.0,+0.4% per unit,1.2654
+locality_level,1.0747,0.0,+192.9% per unit,1.4686
